@@ -4,7 +4,7 @@ class User {
     }
     greet (){
 		// example-utf8.js
-        console.log("みなさんこんにちは。私の名前は " + this.login + " です。");
+        console.log("みなさんこんにちは。私のハンドルネームは " + this.login + " です。");
     }
 }
 
