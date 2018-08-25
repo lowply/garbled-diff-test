@@ -10,3 +10,5 @@ class User {
 
 const me = new User("lowply");
 me.greet();
+
+// vim: syntax=JavaScript
