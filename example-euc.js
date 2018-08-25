@@ -4,7 +4,7 @@ class User {
     }
     greet (){
         // example-euc.js
-        console.log("みなさんはじめまして。私の名前は " + this.login + " です。");
+        console.log("みなさんこんにちは。私の名前は " + this.login + " です。");
     }
 }
 
